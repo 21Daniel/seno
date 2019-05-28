@@ -1,0 +1,44 @@
+Nombre:
+Seno.java
+
+Objetivo:
+Evaluar una función trigonométrica senoidal empleando la serie de taylor, evaluada en f(0).
+ 
+
+Sinopsis:
+Implementar un código en un lenguaje de programación que resuelva una función trigonometrica senoidal, empelando una serie de taylor
+evaluada en la decimo tercera derivada.
+
+
+Descripción:
+Este programa resuelve una función senoidal, dado un número el cual sera ingresado mediante el teclado y definido por el usuario 
+mostrando el resultado en la consola.
+
+
+Ejemplos:
+sin(1)= cerca de 0.8414
+sin(90)= cerca de 1
+sin(0) = 0
+
+
+Ver tambien:
+Seno.txt
+Seno.java
+
+
+Alcance y limitaciones:
+Ingreso de datos
+Calculo del seno
+
+
+Bugs:
+Es posible ingresar caracteres.
+Es posible acpetar maginutides de 0.
+ 
+
+Autor:
+Zarate Avila Leonardo Daniel
+Tel. 5539513272
+Correo: leodan-095@hotmail.com
+Direccion: Tulyehuaco Xochimilco, CDMX.
+
